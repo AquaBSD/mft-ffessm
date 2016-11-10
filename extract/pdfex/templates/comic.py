@@ -38,6 +38,8 @@ class Comic(Template):
         stripped = content.strip()
 
         if in_table:
-            return stripped.startswith('- ') or stripped.endswith('.')
+            return stripped.startswith('- ') \
+                or stripped.endswith('.')    \
+                or stripped.endswith(':')
 
         return False
