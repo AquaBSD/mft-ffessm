@@ -98,7 +98,7 @@ class Template(object):
         fontname = char.fontname.lower()
         return fontname.find('italic') > -1
 
-    def _generate_markdown(self, text):
+    def _generate_text(self, text):
         content = self.cleanup(text.get_text())
         heading = self.handle_heading(text)
 
@@ -118,7 +118,7 @@ class Template(object):
         markdown = ''
 
         for text in element.texts:
-            markdown += self._generate_markdown(text)
+            markdown += self._generate_text(text)
 
         return markdown
 
@@ -138,7 +138,7 @@ class Template(object):
                 bottom = horizontal_coor[row_idx + 1]
 
                 cell = ' '.join(
-                    self._generate_markdown(x).replace('\n', '<br>')
+                    self._generate_text(x).replace(u'\n', u'<br>')
                     for x in element.find_cell_texts(left, top, right, bottom)
                 )
 
