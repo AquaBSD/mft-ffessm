@@ -90,6 +90,12 @@ class Template(object):
     def handle_heading(self, text):
         return 0
 
+    def handle_indent(self, text):
+        return (0, False)
+
+    def handle_ignored(self, content, in_table):
+        return False
+
     def is_bold(self, char):
         fontname = char.fontname.lower()
         return fontname.find('bold') > -1
@@ -98,9 +104,14 @@ class Template(object):
         fontname = char.fontname.lower()
         return fontname.find('italic') > -1
 
-    def _generate_text(self, text):
+    def _generate_text(self, text, in_table=False):
         content = self.cleanup(text.get_text())
         heading = self.handle_heading(text)
+
+        ignored = self.handle_ignored(content, in_table)
+
+        if ignored:
+            return u''
 
         if heading:
             if not self.dedup_headings or content not in self.headings.values():
@@ -111,6 +122,17 @@ class Template(object):
 
         else:
             content = self.handle_font(text, content)
+
+            if not in_table:
+                if content == '- \n':
+                    print u'[{}]'.format(content).encode('utf8')
+
+                indent, in_list = self.handle_indent(text)
+
+                if in_list:
+                    content = u'- ' + content
+
+                content = indent * u'  ' + content
 
         return content
 
@@ -138,7 +160,7 @@ class Template(object):
                 bottom = horizontal_coor[row_idx + 1]
 
                 cell = ' '.join(
-                    self._generate_text(x).replace(u'\n', u'<br>')
+                    self._generate_text(x, in_table=True).replace(u'\n', u'<br>')
                     for x in element.find_cell_texts(left, top, right, bottom)
                 )
 
