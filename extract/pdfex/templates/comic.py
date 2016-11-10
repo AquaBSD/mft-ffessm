@@ -1,5 +1,3 @@
-import re
-
 from .template import Template
 
 

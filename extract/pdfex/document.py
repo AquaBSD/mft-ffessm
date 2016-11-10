@@ -2,8 +2,6 @@ import os
 
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-from pdfminer.pdfdevice import PDFDevice
-from pdfminer.layout import LAParams
 from pdfminer.converter import PDFPageAggregator
 
 from .element import Element

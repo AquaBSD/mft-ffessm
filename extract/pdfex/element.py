@@ -1,7 +1,6 @@
 from pdfminer.layout import (
     LTFigure, LTTextBox, LTTextLine, LTTextBoxHorizontal,
-    LTTextLineHorizontal, LTLine, LTRect, LTImage, LTCurve,
-    LTChar, LTLine, LAParams
+    LTTextLineHorizontal, LTRect, LAParams
 )
 
 
@@ -74,9 +73,11 @@ class Element(object):
                 return x.verticals[0]
 
         return sorted(
-            (item for item in
-            tables + paragraphs
-            if get_anything(item)),
+            (
+                item for item in
+                tables + paragraphs
+                if get_anything(item)
+            ),
             reverse=True,
             key=lambda x: get_anything(x).y0
         )
@@ -181,14 +182,12 @@ class Element(object):
 
         return top, bottom
 
-
     def _find_included(self, top, bottom, objects):
         included = []
         for obj in objects:
             if self._is_overlap(top, bottom, obj):
                 included.append(obj)
         return included
-
 
     def find_cell_texts(self, left, top, right, bottom):
         texts = []
