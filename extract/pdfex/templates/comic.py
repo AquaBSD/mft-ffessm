@@ -1,6 +1,6 @@
 import re
 
-from template import Template
+from .template import Template
 
 
 class Comic(Template):

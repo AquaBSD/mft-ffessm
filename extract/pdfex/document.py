@@ -1,8 +1,12 @@
+import os
+
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfdevice import PDFDevice
 from pdfminer.layout import LAParams
 from pdfminer.converter import PDFPageAggregator
+
+from .element import Element
 
 
 class Document(object):
@@ -23,3 +27,14 @@ class Document(object):
             pages[layout.pageid] = layout
 
         return pages
+
+    @staticmethod
+    def to_markdown(path, template):
+        doc = Document(path)
+        out = os.path.splitext(path)[0] + '.md'
+
+        with open(out, 'w') as output:
+            for page_num, page in doc.extract().items():
+                page_element = Element()
+                for element in page_element.parse(page, page_num, template):
+                    output.write(template.to_markdown(element).encode('utf-8'))
