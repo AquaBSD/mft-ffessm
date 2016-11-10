@@ -1,6 +1,5 @@
 from pdfminer.pdfpage import PDFPage
-from pdfminer.pdfinterp import PDFResourceManager
-from pdfminer.pdfinterp import PDFPageInterpreter
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfdevice import PDFDevice
 from pdfminer.layout import LAParams
 from pdfminer.converter import PDFPageAggregator

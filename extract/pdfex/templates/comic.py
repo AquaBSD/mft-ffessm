@@ -29,6 +29,7 @@ class Comic(Template):
     def handle_ignored(self, content, in_table):
         if not in_table:
             return content in [
+                '(suite) \n',
                 '- \n'
             ]
 

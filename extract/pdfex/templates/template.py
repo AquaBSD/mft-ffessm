@@ -1,6 +1,6 @@
 import tabulate
 
-from pdfminer.layout import LAParams, LTChar
+from pdfminer.layout import LTChar
 
 
 class Template(object):
