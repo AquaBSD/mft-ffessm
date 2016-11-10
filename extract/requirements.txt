@@ -1,0 +1,2 @@
+pdfminer==20140328
+tabulate==0.7.7
