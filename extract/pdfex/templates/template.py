@@ -124,10 +124,7 @@ class Template(object):
             content = self.handle_font(text, content)
 
             if not in_table:
-                if content == '- \n':
-                    print u'[{}]'.format(content).encode('utf8')
-
-                indent, in_list = self.handle_indent(text)
+                indent, in_list = self.handle_indent(text, content)
 
                 if in_list:
                     content = u'- ' + content
