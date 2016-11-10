@@ -13,4 +13,4 @@ if __name__ == '__main__':
     for page_num, page in doc.extract().items():
         page_element = Element()
         for element in page_element.parse(page, template.footer_break):
-            print template.to_markdown(element)
+            print template.to_markdown(element).encode('utf-8')

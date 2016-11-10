@@ -118,7 +118,7 @@ class Template(object):
         markdown = ''
 
         for text in element.texts:
-            markdown += self._generate_markdown(text).encode('utf-8')
+            markdown += self._generate_markdown(text)
 
         return markdown
 
@@ -144,7 +144,7 @@ class Template(object):
 
                 intermediate[row_idx].append(cell)
 
-        return tabulate.tabulate(intermediate, tablefmt="pipe", headers="firstrow").encode('utf8')
+        return tabulate.tabulate(intermediate, tablefmt="pipe", headers="firstrow")
 
     def _calc_coordinates(self, axes, attr, reverse):
         coor_set = set()
