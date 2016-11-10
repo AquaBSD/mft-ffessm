@@ -33,3 +33,11 @@ class Comic(Template):
             ]
 
         return False
+
+    def handle_newline(self, content, in_table):
+        stripped = content.strip()
+
+        if in_table:
+            return stripped.startswith('- ') or stripped.endswith('.')
+
+        return False

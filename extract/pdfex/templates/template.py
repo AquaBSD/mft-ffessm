@@ -96,6 +96,9 @@ class Template(object):
     def handle_ignored(self, content, in_table):
         return False
 
+    def handle_newline(self, content, in_table):
+        return True
+
     def is_bold(self, char):
         fontname = char.fontname.lower()
         return fontname.find('bold') > -1
@@ -131,6 +134,12 @@ class Template(object):
 
                 content = indent * u'  ' + content
 
+        if self.handle_newline(content, in_table):
+            content = content.replace('\n', '<br>')
+
+        if in_table:
+            return content.strip()
+
         return content
 
     def _generate_paragraph(self, element):
@@ -157,7 +166,7 @@ class Template(object):
                 bottom = horizontal_coor[row_idx + 1]
 
                 cell = ' '.join(
-                    self._generate_text(x, in_table=True).replace(u'\n', u'<br>')
+                    self._generate_text(x, in_table=True)
                     for x in element.find_cell_texts(left, top, right, bottom)
                 )
 
