@@ -1,7 +1,7 @@
 from pdfminer.layout import (
     LTFigure, LTTextBox, LTTextLine, LTTextBoxHorizontal,
     LTTextLineHorizontal, LTLine, LTRect, LTImage, LTCurve,
-    LTChar, LTLine
+    LTChar, LTLine, LAParams
 )
 
 
@@ -22,13 +22,19 @@ class Element(object):
             len(self.texts),
         )
 
-    def parse(self, page, footer_break=None):
+    def parse(self, page, page_num, template):
+        if template.la_overrides and str(page_num) in template.la_overrides:
+            laparams = LAParams(**template.la_overrides[str(page_num)])
+        else:
+            laparams = LAParams()
+
+        page.analyze(laparams)
         items = list(reversed(list(page)))
 
         while items:
             item = items.pop()
 
-            if footer_break and footer_break > item.y1:
+            if template.footer_break and template.footer_break > item.y1:
                 continue
 
             if type(item) in [LTFigure, LTTextBox, LTTextLine, LTTextBoxHorizontal]:

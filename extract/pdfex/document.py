@@ -11,7 +11,7 @@ class Document(object):
         self.file = open(filename, 'rb')
 
         rsrcmgr = PDFResourceManager()
-        self.device = PDFPageAggregator(rsrcmgr, laparams=LAParams())
+        self.device = PDFPageAggregator(rsrcmgr)
         self.interpreter = PDFPageInterpreter(rsrcmgr, self.device)
 
     def extract(self):

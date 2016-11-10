@@ -5,9 +5,10 @@ from pdfminer.layout import LTChar
 
 class Template(object):
 
-    def __init__(self, footer_break=None, dedup_headings=False):
+    def __init__(self, footer_break=None, dedup_headings=False, la_overrides=None):
         self.footer_break = footer_break
         self.dedup_headings = dedup_headings
+        self.la_overrides = la_overrides
 
         self.headings = {}
 
@@ -85,7 +86,7 @@ class Template(object):
         return content
 
     def cleanup(self, content):
-        return content
+        return content.strip()
 
     def handle_heading(self, text):
         return 0
@@ -97,6 +98,9 @@ class Template(object):
         return False
 
     def handle_newline(self, content, in_table):
+        return False
+
+    def handle_linebreaks(self, content, in_table):
         return True
 
     def is_bold(self, char):
@@ -108,23 +112,27 @@ class Template(object):
         return fontname.find('italic') > -1
 
     def _generate_text(self, text, in_table=False):
-        content = self.cleanup(text.get_text())
-        heading = self.handle_heading(text)
+        initial_content = text.get_text()
 
-        ignored = self.handle_ignored(content, in_table)
+        ignored = self.handle_ignored(initial_content, in_table)
 
         if ignored:
             return u''
 
+        heading = self.handle_heading(text)
+
         if heading:
+            content = self.cleanup(initial_content)
+
             if not self.dedup_headings or content not in self.headings.values():
                 self.headings[heading] = content
-                return u'{} {}'.format(u'#' * heading, content)
+                return u'{} {}\n'.format(u'#' * heading, content)
             else:
                 return u''
 
         else:
-            content = self.handle_font(text, content)
+            content = self.handle_font(text, initial_content)
+            content = self.cleanup(content)
 
             if not in_table:
                 indent, in_list = self.handle_indent(text, content)
@@ -135,10 +143,13 @@ class Template(object):
                 content = indent * u'  ' + content
 
         if self.handle_newline(content, in_table):
-            content = content.replace('\n', '<br>')
+            content += '<br>'
 
-        if in_table:
-            return content.strip()
+        elif self.handle_linebreaks(content, in_table):
+            content += u'  \n'
+
+        elif not in_table:
+            content += '\n'
 
         return content
 
