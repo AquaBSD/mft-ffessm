@@ -14,6 +14,10 @@ documents:
         char_margin: 0.3
 
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/05_Qualification_PA20m.pdf'
+    template: 'comic'
+    la_overrides:
+      9:
+        char_margin: 0.3
 
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/06_Plongeur_niveau_2.pdf'
     template: 'comic'
