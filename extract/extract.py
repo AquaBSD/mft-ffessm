@@ -10,7 +10,7 @@ import yaml
 
 from pdfex.document import Document
 from pdfex.element import Element
-from pdfex.templates.comic import Comic
+from pdfex.templates.comic import Template, Comic
 
 
 def url_fix(s):
@@ -52,10 +52,15 @@ for document in config.get('documents', []):
 
     print '    [+] Downloaded'
 
-    template = Comic(
-        dedup_headings=True,
-        la_overrides=document.get('la_overrides')
-    )
+    tpl = document.get('template')
+
+    if tpl == 'comic':
+        template = Comic(
+            dedup_headings=True,
+            la_overrides=document.get('la_overrides')
+        )
+    else:
+        template = Template()
 
     doc = Document(data)
     markdown_filename = os.path.join(out_path, '{}.md'.format(name))

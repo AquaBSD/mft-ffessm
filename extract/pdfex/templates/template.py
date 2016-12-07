@@ -91,7 +91,7 @@ class Template(object):
     def handle_heading(self, text):
         return 0
 
-    def handle_indent(self, text):
+    def handle_indent(self, text, content):
         return (0, False)
 
     def handle_ignored(self, content, in_table):
