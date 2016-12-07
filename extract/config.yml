@@ -22,6 +22,11 @@ documents:
         char_margin: 0.3
 
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/07_Qualification_PE40m.pdf'
+    template: 'comic'
+    la_overrides:
+      10:
+        char_margin: 0.3
+
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/08_Qualification_PA40m.pdf'
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/43_Qualification_PE60m.pdf'
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/09_Plongeur_niveau_3.pdf'
