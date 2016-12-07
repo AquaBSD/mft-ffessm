@@ -5,7 +5,12 @@ documents:
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/47_regles_générales_certification_plongeurs_air.pdf'
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/02_Generalites.pdf'
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/03_Pack_decouverte_PE12.pdf'
+
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/46_Qualification_PA12m.pdf'
+    template: 'comic'
+    la_overrides:
+      9:
+        char_margin: 0.3
 
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/04_Plongeur_niveau_1.pdf'
     template: 'comic'
