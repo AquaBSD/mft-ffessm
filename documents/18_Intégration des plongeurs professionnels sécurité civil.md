@@ -87,10 +87,12 @@ Commission Technique Nationale  Manuel de Formation Technique
 **GUIDE D'INTEGRATION A L'USAGE DES CLUBS**  
   
   
+
 |    |    |    |    |    |    |    |    | **Sécurité**  
    |    |    |
 |:---|:---|:---|:---|:---|:---|:---|:---|:------------------|:---|:---|
-|    |    |    |    |    |    |    |    | **Civile**        |    |    ||   
+|    |    |    |    |    |    |    |    | **Civile**        |    |    |
+|   
    
      |     
  |   
@@ -135,9 +137,11 @@ Page 3/19
 FFESSM  
 Commission Technique Nationale  Manuel de Formation Technique  
   
+
 |        |    |    |    |    |    |    |    |    |    |    |
 |:-------|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Niveau |    |    |    |    |    |    |    |    |    |    ||   
+| Niveau |    |    |    |    |    |    |    |    |    |    |
+|   
                |     
  |   
                                                          |   
@@ -196,9 +200,11 @@ Page 4/19
 FFESSM  
 Commission Technique Nationale  Manuel de Formation Technique  
   
+
 |    |    |    |    |    |    |    |    |    |    |    |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|    |    |    |    |    |    |    |    |    |    |    ||   
+|    |    |    |    |    |    |    |    |    |    |    |
+|   
          |     
  |   
                                                    | **PLB**  
@@ -242,9 +248,11 @@ Commission Technique Nationale  Manuel de Formation Technique
  à vérifier |
 |             |  9  
  | Choisir un site  
- de plongée                         |                |    |                 | Acquis         |    |                |    |                                 |    |                                                  ||    |    |    |    |    |    |    |    |    |    |    |    |
+ de plongée                         |                |    |                 | Acquis         |    |                |    |                                 |    |                                                  |
+|    |    |    |    |    |    |    |    |    |    |    |    |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|    |    |    |    |    |    |    |    |    |    |    |    ||   
+|    |    |    |    |    |    |    |    |    |    |    |    |
+|   
       |   
    |   
                                            | **PLB**  
@@ -274,9 +282,11 @@ Page 5/19
 FFESSM  
 Commission Technique Nationale  Manuel de Formation Technique  
   
+
 |    |    |    |    |    |    |    |    |    |    |    |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|    |    |    |    |    |    |    |    |    |    |    ||   
+|    |    |    |    |    |    |    |    |    |    |    |
+|   
    |   
    |   
    | **PLB**  
@@ -306,10 +316,12 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **GUIDE D'INTEGRATION A L'USAGE DES CTR**  
   
+
 |    |    |             |    |    |    | **Gendarmerie**  
    |    |            |    |
 |:---|:---|:------------|:---|:---|:---|:---------------------|:---|:-----------|:---|
-|    |    | Compétences |    |    |    | **Nationale**        |    | **Civile** |    ||                  |    |                                                 | **PLB**  
+|    |    | Compétences |    |    |    | **Nationale**        |    | **Civile** |    |
+|                  |    |                                                 | **PLB**  
  **Instr.**  
    |    | **d'arme**  
    | **DES 2**  
@@ -340,7 +352,8 @@ Commission Technique Nationale  Manuel de Formation Technique
 |                  |    | d’exploration                                   |                            |    |                 | A compléter                              |              |                             | A compléter  
  par MF1                   |
 |                  | 15 | Environnement                                   |                            |    |                 | A compléter                              |              |                             | A compléter  
- selon MFT                 ||   
+ selon MFT                 |
+|   
  S  
  E  
               | A1  
@@ -373,7 +386,8 @@ Commission Technique Nationale  Manuel de Formation Technique
 |                            | A3      | RSE                                                   |    |    |    |    |    |    |                                                     | Sinon  
  attestation  
  aptitude  
- A3 par MF1     ||                  | Gr1  
+ A3 par MF1     |
+|                  | Gr1  
    | Epreuve  
  conditions  
  physiques  
@@ -399,9 +413,11 @@ Page 7/19
 FFESSM  
 Commission Technique Nationale  Manuel de Formation Technique  
   
+
 |        |    |        |    |    |    |               |    |            |    |
 |:-------|:---|:-------|:---|:---|:---|:--------------|:---|:-----------|:---|
-| Niveau |    | du MFT |    |    |    | **Nationale** |    | **Civile** |    || **E2**  
+| Niveau |    | du MFT |    |    |    | **Nationale** |    | **Civile** |    |
+| **E2**  
    |    | GP-N4 +  
    | **PLB**  
  **Instructeur**  
@@ -429,7 +445,8 @@ Commission Technique Nationale  Manuel de Formation Technique
  dater de plus  
  de 18 mois  
  (Photocopie  
- livret individuel) ||    |    |    |                            |    |            | **Gendarmerie**  
+ livret individuel) |
+|    |    |    |                            |    |            | **Gendarmerie**  
    |         |              |    |                                                               |
 |:---|:---|:---|:---------------------------|:---|:-----------|:---------------------|:--------|:-------------|:---|:--------------------------------------------------------------|
 |    |    |    |                            |    |            | **Nationale**        |         | **Civile**   |    |                                                               |
@@ -451,10 +468,12 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **GUIDE D'INTEGRATION A L'USAGE DES CTR (SUITE)**  
   
+
 |    |    |    |    |    |    | **Gendarmerie**  
    |    |    |    |
 |:---|:---|:---|:---|:---|:---|:---------------------|:---|:---|:---|
-|    |    |    |    |    |    | **Nationale**        |    |    |    || **MF1**  
+|    |    |    |    |    |    | **Nationale**        |    |    |    |
+| **MF1**  
                  |    |   
    | **PLB**  
  **Instructeur**  
@@ -501,7 +520,8 @@ Commission Technique Nationale  Manuel de Formation Technique
  stage requis.  
  SC : + contrôle  
  enseignement  
- RSE             ||   
+ RSE             |
+|   
               |      |    |    |    |    |     |    |    |   
                                         |
 |:-----------------|:-----|:---|:---|:---|:---|:----|:---|:---|:-------------------------------------------|
@@ -547,9 +567,11 @@ Commission Technique Nationale  Manuel de Formation Technique
 **GUIDE D'INTEGRATION A L'USAGE DE LA CTN**  
   
   
+
 |    |    |    |    |    |    |               |          |            |                  |
 |:---|:---|:---|:---|:---|:---|:--------------|:---------|:-----------|:-----------------|
-|    |    |    |    |    |    | **Nationale** | **BSPP** | **Civile** | **Observations** || **MF2**  
+|    |    |    |    |    |    | **Nationale** | **BSPP** | **Civile** | **Observations** |
+| **MF2**  
                                 |    |   
    |    |    |    |    | **TSS**  
  **Instruct.**  
@@ -594,7 +616,8 @@ Commission Technique Nationale  Manuel de Formation Technique
 |                                           |    |       |    |    |    |    |                                       |                                                 |                                         | Avis favorable du  
  directeur de stage  
  requis.                                               |
-|                                           |    |       |    |    |    |    |                                       |                                                 |                                         |                                                                                                  ||                            |    |    |    |    |    |    |   
+|                                           |    |       |    |    |    |    |                                       |                                                 |                                         |                                                                                                  |
+|                            |    |    |    |    |    |    |   
    
    |    |                                                                                                    |   
                                      |

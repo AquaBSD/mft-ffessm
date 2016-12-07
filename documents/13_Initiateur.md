@@ -319,6 +319,7 @@ Manuel de Formation Technique
 Page 6/24  
   
 INITIATEUR  
+
 |   
                                            |   
                                                | **Stage**  
@@ -861,6 +862,7 @@ Page 12/24
 **« Accueillir, conseiller et répondre aux demandes des plongeurs et du public »**  
 **Compétence 1 : ACCUEIL DES PLONGEURS**  
 INITIATEUR  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                         | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                  | **Commentaires**  
@@ -938,6 +940,7 @@ Page 13/24
 INITIATEUR  
 **Compétence 2 : CONCEPTION PEDAGOGIQUES**  
 **« Concevoir une progression ou une séance »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                   | **Critères de réalisation**  
                                                                                                        | **Commentaires**  
@@ -976,6 +979,7 @@ INITIATEUR
  séances en milieu articiciel                 |  
 **Compétence 3 : FORMATION DES PLONGEURS**  
 **« Conduire des séances de formation pratiques ou théoriques »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
    | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                      | **Commentaires**  
@@ -1000,6 +1004,7 @@ INITIATEUR
 Manuel de Formation Technique  
 Page 14/24  
 INITIATEUR  
+
 | Réaliser une séance pratique.  
            | Présente la séance.  
  Vérifie le niveau des élèves.  
@@ -1067,6 +1072,7 @@ Page 15/24
 INITIATEUR  
 **Compétence 5 : ORGANISATION**  
 **« Organiser, planifier le déroulement de l’activité »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                   | **Critères de réalisation**  
                                                                                                                       | **Commentaires**  
@@ -1090,6 +1096,7 @@ INITIATEUR
  sa responsabilité. |  
 **Compétence 6 : SECURISER L’ACTIVITE**  
 **« Sécuriser l’activité, prévenir les risques et intervenir si besoin »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                             | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                            | **Commentaires**  
@@ -1139,6 +1146,7 @@ INITIATEUR
 **Compétence 6 : SECURISER L’ACTIVITE**  
 **« Sécuriser l’activité, prévenir les risques et intervenir si besoin »**  
 **(suite)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                  | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Commentaires**  
@@ -1240,6 +1248,7 @@ INITIATEUR
 **Compétence 6 : SECURISER L’ACTIVITE**  
 **« Sécuriser l’activité, prévenir les risques et intervenir si besoin »**  
 **(suite)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
    | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Commentaires**  
@@ -1341,6 +1350,7 @@ INITIATEUR
   
 **Compétence 7 : CONNAISSANCES SUPPORT**  
 **« Posséder les connaissances en appui des compétences requises »**  
+
 | **Savoirs**  
                                                                                                                | **Critères de réalisation**  
                                                                                                                                                                                                                                | **Commentaires**  
@@ -1411,6 +1421,7 @@ Page 19/24
 INITIATEUR  
 **et**  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                                                                  | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Commentaires**  
@@ -1500,6 +1511,7 @@ INITIATEUR
 **« Transmission des connaissances au niveau 2 »**  
 **et**  
 **(suite)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                   | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                         | **Commentaires**  
@@ -1619,6 +1631,7 @@ ATTESTATION DE LA NOTE DE MANNEQUIN AU GP-N4
 INITIATEUR  
   
 (et formulaire de demande)  
+
 |   
  Je, soussigné  
  Nom :  
@@ -1669,7 +1682,8 @@ INITIATEUR
    
    
    |
-||| certifie que  
+||
+| certifie que  
    
    
  Nom :  

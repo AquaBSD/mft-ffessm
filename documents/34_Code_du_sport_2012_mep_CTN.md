@@ -441,6 +441,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
   
 **ANNEXE III-14a**  
+
 | **APTITUDES**  
  **à plonger**  
  **en palanquée**  
@@ -603,6 +604,7 @@ Brevets  de  pratiquants  délivrés  par  la  Fédération  Française  d’Etu
 Fédération  Sportive et Gymnique du Travail (FSGT), l’Union nationale des Centres sportifs de Plein Air (UCPA),  
 l’Association Nationale des Moniteurs de Plongée (ANMP), le Syndicat National des Moniteurs de Plongée (SNMP)  
 et  la  Confédération  Mondiale  des  Activités  Subaquatiques  (CMAS)  attestant  des  aptitudes  de  l’annexe  III-14  a  
+
 | **BREVETS DELIVRES**  
  **par la FFESSM, la FSGT,**  
  **l’UCPA, l’ANMP et le**  
@@ -628,6 +630,7 @@ et  la  Confédération  Mondiale  des  Activités  Subaquatiques  (CMAS)  attes
 | Plongeur Niveau 2- P2                                                                                    | Plongeur 2 étoiles                           | PE-40                                                                                              | PA-20                                                                                                        |
 | Plongeur Niveau 3- P3                                                                                    | Plongeur 3 étoiles                           | PE-60                                                                                              | PA-60                                                                                                        |  
 **ANNEXE III-15a**  
+
 | **FONCTIONS**  
        | **BREVETS DELIVRES par la FFESSM, la**  
  **FSGT, l’UCPA, l’ANMP et le SNMP**  
@@ -657,6 +660,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
   
 **ANNEXE III-15b**  
+
 | **FONCTIONS**  
                                          | **BREVETS DELIVRES**  
  **par la FFESSM, la FSGT, l’UCPA,**  
@@ -706,6 +710,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
   
 **ANNEXE III-16a**  
+
 | **ESPACES**  
              | **APTITUDES MINIMALES DES**  
  **PLONGEURS**  
@@ -734,6 +739,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  vers les aptitudes PE-60 ou PA-60        | E-4                                                       | 4                                                                                                             |
 |                            |                                                                                       |                                                           |                                                                                                               |  
 **ANNEXE III-16b**  
+
 |   
                             |                                                |                                                                                                                 |                                                                                           |                                                    |                                             |
 |:-------------------------------|:-----------------------------------------------|:----------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:---------------------------------------------------|:--------------------------------------------|
@@ -767,6 +773,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **ANNEXE III-17a**  
   
+
 | **APTITUDES**  
  **à plonger au nitrox**  
                                                                                                                    | **LE PRATIQUANT DOIT JUSTIFIER DES APTITUDES**  
@@ -805,6 +812,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  changements de mélanges.  
  Connaissances des principes de la fabrication des mélanges.                                                                                                                   |  
 **ANNEXE III-17b**  
+
 | **ESPACES**  
  **D’EVOLUTION**  
                                            | **APTITUDES MINIMALES DES**  
@@ -844,6 +852,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **ANNEXE III-17c**  
   
+
 |   
                                                                      |                                                                     | **PLONGEE ENCADREE**  
                                                                                          |                                                                                           |                                                                         |                                             |
@@ -880,6 +889,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  de 60 mètres | PE-60 + PN                                                          | 4                                                                                                               | E4 + PN-C                                                                                 | PA-60 + PN                                                              | 3                                           |
 |                                                                         |                                                                     |                                                                                                                 |                                                                                           |                                                                         |                                             |  
 **ANNEXE III-18a**  
+
 | **APTITUDES A**  
  **PLONGER**  
  **au trimix ou à**  
@@ -929,6 +939,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
   
 **ANNEXE III-18b**  
+
 | **ESPACES**  
  **D’EVOLUTION**  
    | **APTITUDES MINIMALES DES**  
@@ -959,6 +970,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  120 | E-4 + PTH-120                                                                           |                                                                                                          4  
  |  
 **ANNEXE III-18c**  
+
 |   
                                                |                                                                     |                                                                                                                 |                                                                                           |                                                                         |                                             |
 |:--------------------------------------------------|:--------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|:--------------------------------------------|
@@ -1014,9 +1026,11 @@ Commission Technique Nationale  Manuel de Formation Technique
 NOM …………………………………… PRENOM …………………………..…..Date de naissance…………………….  
 Date ………………….….Tél Club ou directeur de plongée:……………………………..…………………………………  
 Nom et adresse de l’établissement……………………………………………..………………………………...................  
+
 | **CARACTERISTIQUES DE LA PLONGEE ET DE L’ACCIDENT**  
    |
-||| **CARACTERISTIQUES DE LA PLONGEE ET DE L’ACCIDENT**  
+||
+| **CARACTERISTIQUES DE LA PLONGEE ET DE L’ACCIDENT**  
    |
 ||□  
 □  
@@ -1063,6 +1077,7 @@ Signes observés
 …………………………………………..  
 …………………………………………..  
 …………………………………………..  
+
 | mètres  
    |   
    |   
@@ -1096,17 +1111,22 @@ Boisson
 □  
 □  
 □  
+
 | **INTERVENTION MEDICALE**  
    |
-||| **INTERVENTION MEDICALE**  
+||
+| **INTERVENTION MEDICALE**  
    |
 ||Nom du médecin :………………………………………………….….Tél …………………………..  
+
 | f   | i   | r   | s   | t   | r   | o   | w   |
 ||Traitement……………………………………………………………………………………………………….………...  
 ………………………………………………………………………………………………………….............................  
+
 | **EVACUATION PRIMAIRE**  
    |
-||| **EVACUATION PRIMAIRE**  
+||
+| **EVACUATION PRIMAIRE**  
    |
 ||Service d’Accueil : ………………………….  Moyen (s)……………………  Durée totale : …………………………  
 Médicalisation oui  □  

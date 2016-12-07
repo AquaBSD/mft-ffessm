@@ -136,6 +136,7 @@ devrait attester de son activité recycleur.
   
   
 **Compétences n°1 : CONNAISSANCES THEORIQUES COMMUNES**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -197,6 +198,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétences n°2 : GERER ET UTLISER SON MATERIEL**  
 **(Recycleur circuit fermé à gestion électronique de la PpO2)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -273,6 +275,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétences n°3 : PLONGEE AVEC UN RECYCLEUR**  
 **(Recycleur circuit fermé à gestion électronique de la PpO2)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -367,6 +370,7 @@ Commission Technique Nationale  Manuel de Formation Technique
   
 **Compétences n°3 : PLONGEE AVEC UN RECYCLEUR (suite)**  
 **(Recycleur circuit fermé à gestion électronique de la PpO2)**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -401,6 +405,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 | Comportement en fin de plongée.                                          |                                                                                                                                | Ne pas arrêter l'appareil avant le  
  déséquipement du plongeur.                                 |**Compétences n°4 : MODULE SPECIFIQUE INSPIRATION/EVOLUTION**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    

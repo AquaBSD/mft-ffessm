@@ -70,6 +70,7 @@ La qualification « Tuteur de stage pédagogique en situation » comprend les co
 2 - Connaissances en appui des compétences : UC2.  
 3 - Animer un atelier pédagogique : UC3.  
 **Compétence n° 1 : TUTORER EN SITUATION UN STAGIAIRE PEDAGOGIQUE (UC1)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
              | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Commentaires**  
@@ -120,6 +121,7 @@ TUTEUR DE STAGE INITIATEUR
   
 **Compétence n° 1 : TUTORER EN SITUATION UN STAGIAIRE PEDAGOGIQUE (UC1)**  
 **(suite)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                 | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                               | **Commentaires**  
@@ -154,6 +156,7 @@ Page 3/6
 TUTEUR DE STAGE INITIATEUR  
   
 **Compétence n° 2 : CONNAISSANCES EN APPUI DES COMPETENCES (UC2)**  
+
 | **Savoirs**  
                                                   | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Commentaires**  
@@ -237,6 +240,7 @@ Page 4/6
 TUTEUR DE STAGE INITIATEUR  
 **Compétence n° 3 : ANIMER UN ATELIER PEDAGOGIQUE (UC3)**  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                    | **Critères de réalisation**  
                                                                                                                                           | **Commentaires**  

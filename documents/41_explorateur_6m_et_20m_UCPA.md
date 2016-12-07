@@ -87,6 +87,7 @@ validé ainsi qu’au moins une compétence optionnelle parmi celles proposées 
   
 **TABLEAU DES CONDITIONS DE LA PRATIQUE DES ATP « PLONGEUR EXPLORATEUR » EN**  
 **MILIEU NATUREL OU ARTIFICIEL en ENSEIGNEMENT ou en EXPLORATION**  
+
 | **Espace**  
  **d’évolution**  
    | **Age des**  
@@ -178,6 +179,7 @@ d’Argent.
   
   
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -197,6 +199,7 @@ d’Argent.
  flexibles, avec les jeunes.                  | Participe au rinçage et au  
  rangement du matériel.                                                |**Compétence n° 1b : COMPORTEMENT EN SURFACE**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -232,6 +235,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : IMMERSION ET RETOUR EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -258,6 +262,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  pour se maintenir en surface. Le  
  vide sur signe du moniteur. |**Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -294,6 +299,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
   
 **Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -325,6 +331,7 @@ Commission Technique Nationale  Manuel de Formation Technique
   
 Il  s’agit  d’initier,  dès  ses  premières  immersions,  le  jeune  à  un  comportement  éco-responsable  et  propice  à  une  
 préservation de l’environnement (site, faune et flore).  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -362,6 +369,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 6 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -421,6 +429,7 @@ concrète plutôt qu'un enseignement conceptuel et scolaire.
   
   
 **Compétence n° 1a : GERER ET UTILISER SON MATERIEL**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -460,6 +469,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 1b : COMPORTEMENT EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -490,6 +500,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  la surface.                                                                     |                                                                                                                                                 | S’avoir s’équiper et se déséquiper  
  dans l’eau.                                                                                          |**Compétence n° 2 : IMMERSION ET RETOUR EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -527,6 +538,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -566,6 +578,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  profondeur.  
  Maintien son niveau d’immersion. |**Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -616,6 +629,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 5 : ECO-PLONGEE ET DECOUVERTE DU MILIEU**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -669,6 +683,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  cours des débriefings après  
  plongée. |**Compétence n° 6 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -742,6 +757,7 @@ Explorateur 20 mètres » sont les suivantes :
   
 **Compétence n° 7.1 : RANDO SUB**  
 **(Compétence thématique support de l’ATP)**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -806,6 +822,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétence n° 7.2 : ENVIRONNEMENT initiation**  
 **(Compétence thématique support de l’ATP)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -843,6 +860,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  neutre du monde marin). |**Compétence n° 7.2 : ENVIRONNEMENT perfectionnement**  
 **(Compétence thématique support de l’ATP)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -898,6 +916,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétence n° 7.3 : IMAGE**  
 **(Compétence thématique support de l’ATP)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -934,6 +953,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  ses plongées. |**Compétence n° 7.4 : PHYSIOLOGIE DE L’IMMERSION**  
 **(Compétence thématique support de l’ATP)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1006,6 +1026,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **(Compétence thématique support de l’ATP)**  
 **Réservé uniquement à la qualification de « Plongeur Explorateur 20 mètres »**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    

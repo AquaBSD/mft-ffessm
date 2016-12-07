@@ -92,6 +92,7 @@ PLONGEUR NIVEAU 3 (N3)
 **Compétence 4 : PLANIFIER ET ORGANISER LA PLONGEE**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                   | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                           | **Techniques/Commentaires/Limites**  
@@ -153,6 +154,7 @@ PLONGEUR NIVEAU 3 (N3)
   
   
 **Compétence 5 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                    | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Techniques/Commentaires/Limites**  
@@ -202,6 +204,7 @@ PLONGEUR NIVEAU 3 (N3)
   
 **Compétence 5 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION**  
 **(suite)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                                                                                                                                      | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Techniques/Commentaires/Limites**  
@@ -318,6 +321,7 @@ PLONGEUR NIVEAU 3 (N3)
   
 **Compétence 5 : MAITRISER, ADAPTER L’EVOLUTION EN IMMERSION**  
 **(suite)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                            | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Techniques/Commentaires/Limites**  
@@ -369,6 +373,7 @@ PLONGEUR NIVEAU 3 (N3)
 **Compétence 6 : PARTICIPER A LA SECURITE EN PLONGEE**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                    | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                       | **Techniques/Commentaires/Limites**  
@@ -457,6 +462,7 @@ PLONGEUR NIVEAU 3 (N3)
 **(suite)**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                                                                                                                                                                                                     | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Techniques/Commentaires/Limites**  
@@ -553,6 +559,7 @@ PLONGEUR NIVEAU 3 (N3)
   
   
 **Compétence 7 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                         | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                | **Techniques/Commentaires/Limites**  
@@ -609,6 +616,7 @@ PLONGEUR NIVEAU 3 (N3)
   
   
 **Compétence 8 : CONNAISSANCES EN APPUI DES COMPETENCES**  
+
 | **Savoirs**  
                                                           | **Critères de réalisation**  
                                                                                                                                  | **Techniques/Commentaires/Limites**  
@@ -657,6 +665,7 @@ PLONGEUR NIVEAU 3 (N3)
   
 **Compétence 8 : CONNAISSANCES EN APPUI DES COMPETENCES**  
 **(suite)**  
+
 | **Savoirs**  
                                                                          | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Techniques/Commentaires/Limites**  
@@ -743,6 +752,7 @@ Page 11/14
 PLONGEUR NIVEAU 3 (N3)  
 **Compétence 9 : CHOISIR UN SITE DE PLONGEE**  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                                                                                                                                                                                                         | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Techniques/Commentaires/Limites**  
@@ -801,6 +811,7 @@ Page 12/14
 PLONGEUR NIVEAU 3 (N3)  
 **Compétence 9 : CHOISIR UN SITE DE PLONGEE**  
 **(suite)**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                     | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Techniques/Commentaires/Limites**  

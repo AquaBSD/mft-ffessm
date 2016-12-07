@@ -43,6 +43,11 @@ documents:
         char_margin: 0.3
 
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/43_Qualification_PE60m.pdf'
+    template: 'comic'
+    la_overrides:
+      10:
+        char_margin: 0.3
+
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/09_Plongeur_niveau_3.pdf'
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/10_Guide_de_Palanquee_N4.pdf'
   - url: 'http://www.ffessm.fr/gestionenligne/manuel/11_Guide_palanquee_associe.pdf'

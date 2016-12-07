@@ -58,6 +58,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétences n°1 : GERER ET UTILISER SON MATERIEL**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -104,6 +105,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  manipulation des mélanges  
  suroxygénés.                                                                                        |                                                                                                                                                                                             |                                                                                                                                                                                           |**Compétence n°2 : PLONGEE AU NITROX**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -140,6 +142,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n°3 : CONNAISSANCES THEORIQUES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -263,6 +266,7 @@ montant de la carte).
   
   
 **Compétence n° 1 : GERER ET UTILISER SON MATERIEL**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -287,6 +291,7 @@ montant de la carte).
  que l’on constatera tout au long des  
  séances de pratique. |**Compétence n° 2 : PLONGEE EN AUTONOMIE AUX MELANGES NITROX**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -337,6 +342,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 3 : CONNAISSANCES THEORIQUES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    

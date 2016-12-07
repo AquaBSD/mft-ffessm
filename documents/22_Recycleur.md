@@ -91,6 +91,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétences n°1 : CONNAISSANCES THEORIQUES COMMUNES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -150,6 +151,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétences n°2 : GERER ET UTLISER SON MATERIEL**  
 **(Recycleur semi fermé ou Nitrox)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -207,6 +209,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétences n°3 : PLONGEE AVEC UN RECYCLEUR**  
 **(Recycleur semi fermé ou Nitrox)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -281,6 +284,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétences n°4 : CONNAISSANCES THEORIQUES**  
 **(Recycleur semi fermé ou Nitrox)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -394,6 +398,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n°1 : PEDAGOGIE THEORIQUE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -409,6 +414,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  semi-fermé. | Participation active au stage et  
  réalisation de plusieurs cours. |**Compétence n° 2 : PEDAGOGIE PRATIQUE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -427,6 +433,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  encadrement de plusieurs plongées  
  en double. |**Compétence n° 3 : ORGANISATION D’UN STAGE DE FORMATION**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    

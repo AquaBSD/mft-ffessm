@@ -186,6 +186,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC1 – GENERALITES - LE DISPOSITIF FEDERAL**  
 **(durée 15 mn)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -234,6 +235,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  Formation continue des TIV.                                                                                                                                                                                                            |  
 **UC2.1 – LES TEXTES REGLEMENTAIRES**  
 **(durée 45 mn)**  
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -288,6 +290,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC2.2 – LES OBLIGATIONS REGLEMENTAIRES**  
 **(durée 10 mn)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -305,6 +308,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  cause du ou des rebuts. |  
 **UC3 – LA RESPONSABILITE DU TIV**  
 **(durée 30 mn)**  
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -348,6 +352,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC4 – LA FABRICATION DES BOUTEILLES**  
 **(durée 45 mn)**  
   
+
 |   
    
  **Connaissances, savoir-faire et savoir-être**  
@@ -382,6 +387,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  administrative). |  
 **UC5 – LA CORROSION DES BOUTEILLES**  
 **(durée 45 mn)**  
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -412,6 +418,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC6 – LA CHAINE DE L’AIR**  
 **(durée 1h00)**  
   
+
 |   
    
  **Connaissances, savoir-faire et savoir-être**  
@@ -442,6 +449,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  prévention. |  
 **UC7 – LA REQUALIFICATION**  
 **(durée 30 mn)**  
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -482,6 +490,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC8.1 – ORGANISATION DE L’INSPECTION**  
 **(durée 15 mn)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -505,6 +514,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC8.2 – PROCEDURE D’INSPECTION**  
 **(durée 1h00)**  
   
+
 |   
    
  **Connaissances, savoir-faire et savoir-être**  
@@ -596,6 +606,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC9 – CONSEILS D’UTILISATION – PREVENTION**  
 **(durée 30 mn)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -620,6 +631,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  but de prévention et d’amélioration de la sécurité. |**UC10 – TRAVAUX PRATIQUES – MISE EN SITUATION**  
 **(durée 3h00)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -666,6 +678,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC11 – INSPECTION « SERVICE OXYGENE »**  
 **(durée 2h00)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -718,6 +731,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC12 – ALLIAGES D’ALUMINIUM ET MATERIAUX COMPOSITES**  
 **(durée 2h00)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -775,6 +789,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **conformément au cahier des charges**  
 **(durée : une journée)**  
   
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -807,6 +822,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **UC14 – Réactivation des TIV après 2 ans d’inactivité**  
 **conformément au cahier des charges**  
 **(durée : une journée)**  
+
 | **Connaissances, savoir-faire et savoir-être**  
    
    
@@ -853,30 +869,52 @@ Annexe
 **Sujet**  
 **Inutile**  
   
+
 |    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |    |    |    |    |
-|||    |   
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |    |    |    |    |
+||
+|    |   
    |    |   
    |    |
-|||    |    |    |    |    |
-||| f   | i   | r   | s   | t   | r   | o   | w   |
+||
+|    |    |    |    |    |
+||
+| f   | i   | r   | s   | t   | r   | o   | w   |
 ||Brevets et qualifications  
 TIV  
 17/09/2016  
@@ -890,24 +928,30 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Inutile**  
   
   
+
 |    |   
    |    |   
    |    |
-|||    |   
+||
+|    |   
    |    |   
    |    |
-|||    |   
+||
+|    |   
    |    |   
    |    |
-|||    |   
+||
+|    |   
    |    |   
    |    |
-|||    |   
+||
+|    |   
    |    |   
    |    |
 ||  
   
 Remarques et suggestions :  
+
 |   
    |
 ||  

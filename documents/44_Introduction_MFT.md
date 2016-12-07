@@ -60,6 +60,7 @@ INTRODUCTION
 **Compétence X : compétence générale**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
    | **Critères de réalisation**  
    | **Techniques/Commentaires/Limites**  

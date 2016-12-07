@@ -88,6 +88,7 @@ DIRECTEUR DE PLONGEE – NIVEAU 5
   
 **« Accueillir, conseiller et répondre aux demandes des plongeurs et du public »**  
 **Compétence 1 : ACCUEIL DES PLONGEURS**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                         | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                | **Commentaires**  
@@ -158,6 +159,7 @@ DIRECTEUR DE PLONGEE – NIVEAU 5
   
 **Compétence 4 : SITE DE PLONGEE**  
 **« Choisir un site de plongée »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                                                                                                                                                                                                                                 | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Commentaires**  
@@ -229,6 +231,7 @@ DIRECTEUR DE PLONGEE – NIVEAU 5
   
 **Compétence 5 : ORGANISATION**  
 **« Organiser, planifier le déroulement de l’activité »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                   | **Critères de réalisation**  
                                                                                                                                                                                                                                       | **Commentaires**  
@@ -307,6 +310,7 @@ DIRECTEUR DE PLONGEE – NIVEAU 5
   
 **Compétence 6 : SECURISER L’ACTIVITE**  
 **« Sécuriser l’activité, prévenir les risques et intervenir si besoin »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                           | **Critères de réalisation**  
                                                                                                                                                                                                                                                                              | **Commentaires**  
@@ -400,6 +404,7 @@ DIRECTEUR DE PLONGEE – NIVEAU 5
 **Compétence 7 : CONNAISSANCES SUPPORT**  
 **« Posséder les connaissances en appui des compétences requises »**  
   
+
 | **Savoirs**  
                                                                                                                                                                           | **Critères de réalisation**  
                                                                                                                                                                                                                                | **Commentaires**  
@@ -470,6 +475,7 @@ DIRECTEUR DE PLONGEE – NIVEAU 5
 **Compétence 7 : CONNAISSANCES SUPPORT**  
 **« Posséder les connaissances en appui des compétences requises »**  
 **(suite)**  
+
 | **Savoirs**  
           | **Critères de réalisation**  
                                                                                                                                                                       | **Commentaires**  
@@ -488,6 +494,7 @@ DIRECTEUR DE PLONGEE – NIVEAU 5
  spécifiques au site. |  
 **Compétence 9 : « DIRECTEUR DE PLONGEE »**  
 **« Attester de la fonction de Directeur de Plongée »**  
+
 | **Savoirs**  
                                            | **Critères de réalisation**  
                                                                                                                                           | **Commentaires**  

@@ -72,6 +72,7 @@ différents brevets fédéraux de plongée.
   
 Les  conditions  spécifiques  sont  fixées  et  précisées  dans  les  conditions  d'inscription,  dûment  décrites  dans  le  
 Manuel de Formation Technique.  
+
 | **NIVEAU DE PLONGEE**  
           | **EXIGIBILITE**  
    |
@@ -200,6 +201,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence : REACTIONS ET INTERVENTIONS FACE A UN ACCIDENT DE PLONGEE**  
   
+
 |   
    | **Connaissances, savoir-faire**  
  **et savoir-être**  

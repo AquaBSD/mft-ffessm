@@ -61,6 +61,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 1 : PLANIFICATION DE LA PLONGEE**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -84,6 +85,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  rattrapage en autonomie.  
  -  Le temps et la profondeur. |  
 **Compétence n° 2 : ORGANISATION MATERIELLE DE LA PLONGEE**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -123,6 +125,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  coéquipier(s).                                                                  | Contrôle, repérage du matériel et  
  de son fonctionnement.                                                                                                 | Contrôle mutuel des matériels.                                                                                       |  
 **Compétence n° 3 : GESTION DU MATERIEL**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -156,6 +159,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétence n° 4 : APPRENTISSAGE DES TECHNIQUES DE PLONGEE**  
 **AU TRIMIX ELEMENTAIRE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -213,6 +217,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  bien gonflé.                 | Le parachute doit être libéré  
  correctement et rapidement.                                                                                                       |**Compétence n° 5 : SECURITE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -249,6 +254,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 6 : CONNAISSANCES THEORIQUES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -408,6 +414,7 @@ Les duplicata des cartes double face FFESSM/INTERNATIONAL sont délivrés par le
   
   
 **Compétence n° 1 : PLANIFICATION ET ORGANISATION MATERIELLE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -473,6 +480,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétence n° 1 : PLANIFICATION ET ORGANISATION MATERIELLE**  
 **(suite)**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -552,6 +560,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : APPRENTISSAGE DES TECHNIQUES DE PLONGEE TRIMIX PROFOND**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -633,6 +642,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 3 : CONNAISSANCES THEORIQUES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -764,6 +774,7 @@ Les duplicata des cartes double face FFESSM/CMAS sont délivrés par le siège n
   
   
 **Compétence n° 1 : PEDAGOGIE THEORIQUE**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -778,6 +789,7 @@ Les duplicata des cartes double face FFESSM/CMAS sont délivrés par le siège n
  élémentaire et confirmé. | Participation active au stage et  
  réalisation de plusieurs cours. |  
 **Compétence n° 2 : PEDAGOGIE PRATIQUE**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -796,6 +808,7 @@ Les duplicata des cartes double face FFESSM/CMAS sont délivrés par le siège n
  encadrement de plusieurs plongées  
  en double. |**Compétence n° 3 : ORGANISATION D’UN STAGE DE FORMATION**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -818,6 +831,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **LOGICIELS DE DECOMPRESSION (**liste non exhaustive)  
   
+
 | Abyss  
              | logiciel de décompression (version Windows). Il peut traiter plusieurs type de  
  mélanges air, nitrox, trimix, heliox, selon les modèles Bühlmann ZH-L32 et  

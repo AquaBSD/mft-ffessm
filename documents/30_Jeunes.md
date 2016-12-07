@@ -109,6 +109,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **EN MILIEU NATUREL EN ENSEIGNEMENT OU EN EXPLORATION**  
   
   
+
 | **Espace**  
  **d’évolution**  
    | **Age**  
@@ -227,6 +228,7 @@ Il commence à évoluer au tuba et arrive à le vider en surface.
   
 **Compétence n° 1a : UTILISER SON MATERIEL ET DECOUVERTE DE L’ENVIRONNEMENT**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -246,6 +248,7 @@ Il commence à évoluer au tuba et arrive à le vider en surface.
  dans l’eau et se familiarise avec le  
  milieu. |  
 **Compétence n° 1b : COMPORTEMENT USUEL EN SURFACE**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -267,6 +270,7 @@ Il commence à évoluer au tuba et arrive à le vider en surface.
  dans l’eau.       | Le jeune commence à se servir du  
  tuba pour respirer tête dans l’eau. |**Compétence n° 2 : IMMERSION ET RETOUR EN SURFACE**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -291,6 +295,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
   
 **Compétence n° 3 : PREPARATION A LA VENTILATION EN PLONGE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -307,6 +312,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  l’environnement » et le « sous  
  l’eau ». |**Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -321,6 +327,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  base de gestes simples. | Le jeune arrive à comprendre  
  divers signes communs sous l’eau. |**Compétence n°5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -363,6 +370,7 @@ Il évolue en s’aidant de moins en moins d’aide à la flottabilité.
   
   
 **Compétence n° 1a : UTILISER SON MATERIEL**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -382,6 +390,7 @@ Il évolue en s’aidant de moins en moins d’aide à la flottabilité.
  du moniteur en matière  
  d’équipement. |**Compétence n° 1b : COMPORTEMENT USUEL EN SURFACE**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -416,6 +425,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : IMMERSION ET RETOUR EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -437,6 +447,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  plusieurs méthodes dés lors que  
  les apnées se répètent. |**Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -453,6 +464,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  apnées sans aucune notion de  
  temps. Aucune notion compétitive. |**Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -469,6 +481,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  descente, stop, regarder, ne pas  
  toucher. |**Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -508,6 +521,7 @@ mètre de profondeur.
 **(PALMES, MASQUE, TUBA, COMBINAISON)**  
   
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -524,6 +538,7 @@ mètre de profondeur.
  rangement du matériel. | Le jeune prend soin de son  
  matériel.            |  
 **Compétence n° 1b : COMPORTEMENT USUEL EN SURFACE**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -557,6 +572,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : IMMERSION ET RETOUR EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -572,6 +588,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 | S’immerger et revenir en surface  
  avec le moniteur.              | Lestage ajusté.                                                     | Rester à proximité du moniteur.             |**Compétence n° 3 : PREPARATION A LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -590,6 +607,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  l’apnée (récupération, retrait du  
  tuba si besoin…). |**Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -614,6 +632,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  moniteur en respectant les  
  consignes d’évolution.                                                                                                                         |**Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -661,6 +680,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **Compétence n° 1a : UTILISER SON MATERIEL**  
   
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -682,6 +702,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  un adulte.       | Prendre soin de son matériel sans  
  en oublier.                             |**Compétence n° 1b : COMPORTEMENT EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -727,6 +748,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : IMMERSION ET RETOUR EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -760,6 +782,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  premier maniement du gilet.                       | Utilisation des purges lentes et  
  rapides (haute et basse).                            |**Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -780,6 +803,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  peu d'eau dans le masque,  
  efficacité du vidage. |**Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -818,6 +842,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -843,6 +868,7 @@ Commission Technique Nationale  Manuel de Formation Technique
   
 **Compétence n° 1 : UTILISATION DE SON MATERIEL**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -868,6 +894,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  nécessiter l'assistance d'un adulte.                                                                                                                            | Prendre soin de son matériel, et ne  
  pas en oublier. |**Compétence n° 1b : COMPORTEMENT EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -909,6 +936,7 @@ Page 15/24
 FFESSM  
 Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : IMMERSION ET RETOUR EN SURFACE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -946,6 +974,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  poumon ballast et une faible  
  profondeur (0 - 6 m). |  
 **Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -987,6 +1016,7 @@ FFESSM
 Commission Technique Nationale  Manuel de Formation Technique  
   
 **Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1014,6 +1044,7 @@ Commission Technique Nationale  Manuel de Formation Technique
  l'encadrant le cherchera en surface.                                                                        | Vitesse de remontée contrôlée et  
  lente.                                        |  
 **Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1127,6 +1158,7 @@ sûr contrôlée en permanence par ce dernier.
   
 La validation de cette qualification se fait en milieu naturel.  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1202,6 +1234,7 @@ Commission Technique Nationale  Manuel de Formation Technique
 **ET**  
   
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1297,6 +1330,7 @@ en œuvre sous la responsabilité du moniteur qui en délimite le champ d’appl
   
 Il n’y a pas de cadre particulier (milieu naturel ou artificiel) pour valider cette qualification.  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    

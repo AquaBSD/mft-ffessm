@@ -54,6 +54,7 @@ PLONGEUR SIDEMOUNT DE LOISIR
 **Compétence 1 : UTILISER L’EQUIPEMENT DE PLONGEE**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
               | **Critères de réalisation**  
                                                 | **Techniques/Commentaires/Limites**  
@@ -88,6 +89,7 @@ PLONGEUR SIDEMOUNT DE LOISIR
 **Compétence 2 : EVOLUER EN ENVIRONNEMENT AQUATIQUE ET SUBAQUATIQUE**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                         | **Critères de réalisation**  
                                                                                                                                                                           | **Techniques/Commentaires/Limites**  
@@ -152,6 +154,7 @@ PLONGEUR SIDEMOUNT DE LOISIR
 **Compétence 6 : PARTICIPER A LA SECURITE EN PLONGEE**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
    | **Critères de réalisation**  
                                                                                                         | **Techniques/Commentaires/Limites**  
@@ -181,6 +184,7 @@ PLONGEUR SIDEMOUNT DE LOISIR
 **Compétence 8 : CONNAISSANCES EN APPUI DES COMPETENCES**  
   
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
    | **Critères de réalisation**  
                                                                                                                                                                                         | **Techniques/Commentaires/Limites**  

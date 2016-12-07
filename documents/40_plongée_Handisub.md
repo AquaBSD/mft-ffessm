@@ -57,6 +57,7 @@ Page 1/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
   
 **ORGANISATION DE LA PRATIQUE PESH**  
+
 | Baptêmes  
  **PESH 6m**  
    
@@ -122,6 +123,7 @@ conformément au Code du Sport.
   
 **TABLEAU DES CONDITIONS DE LA PRATIQUE DE LA PLONGEE POUR PLONGEUR EN**  
 **SITUATION DE HANDICAP, EN MILIEU NATUREL EN ENSEIGNEMENT OU EN EXPLORATION**  
+
 | **Espaces**  
     |              | **Compétence**  
  **minimum de**  
@@ -167,6 +169,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
 **PLONGEURS EN SITUATION DE HANDICAP**  
 **COHERENCE DU CURSUS AVEC LE CODE DU SPORT**  
   
+
 | **BAPTEME VALIDE**  
                                                               | **CODE DU SPORT**  
                                                                                                                                                                                                                                                                                                                                                                                                               | **BAPTEME PESH**  
@@ -358,6 +361,7 @@ C'est un plongeur « débutant » dans le Code du Sport. Il n'a pas de prérogat
   
   
 **Compétence n° 1a : UTILISER SON MATERIEL**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -389,6 +393,7 @@ Page 7/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 1b : COMPORTEMENTS ET GESTES TECHNIQUES EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -409,6 +414,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
 | Décapelage et recapelage à la  
  surface de l’eau.                                                                   | L'aide peut être totale.                                                                                                                                  |                                  |  
 **Compétence n° 2 : IMMERSIONS ET RETOUR EN SURFACE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -429,6 +435,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  recherché : respect de la faune et de  
  la flore. Pas d'appuis sur le fond. |  
 **Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -454,6 +461,7 @@ Page 8/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -469,6 +477,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  Monter / descendre. | Pouvoir se faire comprendre.  
  Communication adaptée. |                                  |  
 **Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -595,6 +604,7 @@ formateur Nitrox. Si le handicap est visuel, les moyens de pratique doivent êtr
   
   
 **Compétence n° 1a : UTILISER SON MATERIEL**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -634,6 +644,7 @@ Page 11/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 1b : COMPORTEMENTS ET GESTES TECHNIQUES EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -675,6 +686,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  surface de l’eau.                                                                                                    | Si le bateau s'y prête, tendre, ou  
  faire tendre, son bloc au bateau.                                                                                                                                                                                                                                                                             |                                                                                                                                                                                              |  
 **Compétence n° 2 : IMMERSIONS ET RETOUR EN SURFACE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -718,6 +730,7 @@ Page 12/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -768,6 +781,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
   
 **Commentaires et limites**  
 **Critères de réalisation**  
+
 | Communication :  
  OK / non OK.  
  Froid.  
@@ -824,6 +838,7 @@ Page 13/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -956,6 +971,7 @@ les moyens de pratique doivent être adaptés : traçabilités / contrôles….
   
   
 **Compétence n° 1a : UTILISER SON MATERIEL**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -998,6 +1014,7 @@ Page 16/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 1b : COMPORTEMENTS ET GESTES TECHNIQUES EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1044,6 +1061,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  bateau après une plongée avec le  
  bloc + distance de sécurité. |**Compétence n° 2 : IMMERSIONS ET RETOUR EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1101,6 +1119,7 @@ Page 17/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 3 : MAITRISE DE LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1166,6 +1185,7 @@ Page 18/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1234,6 +1254,7 @@ Page 19/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1424,6 +1445,7 @@ Page 22/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
   
 **Compétence n° 1a : UTILISER SON MATERIEL**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1458,6 +1480,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  théorique sur le matériel.                                                                                                                                           | Savoir ranger, rincer et stocker son  
  matériel.                                                                                          |    |  
 **Compétence n° 1b : COMPORTEMENTS ET GESTES TECHNIQUES EN SURFACE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1512,6 +1535,7 @@ Page 23/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : IMMERSIONS ET RETOUR EN SURFACE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1572,6 +1596,7 @@ Page 24/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 3 : EVOLUER ET MAITRISER LA VENTILATION EN PLONGEE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1624,6 +1649,7 @@ Page 25/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 4 : REACTIONS AUX SITUATIONS USUELLES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -1689,6 +1715,7 @@ Page 26/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 5 : CONNAISSANCES THEORIQUES ELEMENTAIRES**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2008,17 +2035,20 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
   
   
   
+
 | **MONITEUR FORMATEUR**  
  **MFEH2**  
    |
 ||  
   
+
 | **MONITEUR FORMATEUR**  
  **MFEH1**  
    |
 ||  
   
   
+
 | **ENSEIGNANT HANDICAP 1**  
  **EH1**  
    |   
@@ -2026,21 +2056,25 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  **EH2**  
    |
 ||  
+
 | **HANDICAPS**  
  **MODERES**  
    |   
    | **HANDICAPS**  
  **MAJEURS**  
    |
-||| **si E2**  
+||
+| **si E2**  
    |   
    | **si E2**  
    |
-||| **si E2**  
+||
+| **si E2**  
    |   
    | **si E2**  
    |
-||| **si E3**  
+||
+| **si E3**  
    |   
    | **si E3**  
    |
@@ -2056,6 +2090,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
   
 **TABLEAU RECAPITULATIF DES EQUIVALENCES POSSIBLES**  
   
+
 | **Enseignants**  
  **Code du Sport**  
    | **Documents à**  
@@ -2144,6 +2179,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
 **Compétence n° 1 : PEDAGOGIE THEORIQUE**  
   
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2267,6 +2303,7 @@ Page 35/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 2 : PEDAGOGIE PRATIQUE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2305,6 +2342,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  modéré.  
  Evaluer une situation plausible.                                                                  |**Compétence n° 3 : ORGANISATION D’UN STAGE DE FORMATION**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2405,6 +2443,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
 **Compétence n° 1 : PEDAGOGIE THEORIQUE**  
   
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2503,6 +2542,7 @@ Page 38/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
   
 **Compétence n° 2 : PEDAGOGIE PRATIQUE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2546,6 +2586,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
   
   
   
+
 |   
    
  MODULE COMPLEMENTAIRE AU E.H.1  
@@ -2644,6 +2685,7 @@ globale ou séparée.
 **Critères de réalisation**  
   
   
+
 | Réglementation et connaissance  
  des handicaps :  
  Module 1 : moteur « majeur ».  
@@ -2685,6 +2727,7 @@ globale ou séparée.
  Privilégier les environnements  
  adaptés. |**Compétence n° 2 : PEDAGOGIE PRATIQUE**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2712,6 +2755,7 @@ Page 41/47
 FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique  
 **Compétence n° 3 : ORGANISATION D’UN STAGE DE FORMATION**  
   
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2819,6 +2863,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
   
 **CONTENUS DE FORMATION MFEH1**  
 **Compétence n° 1 : PEDAGOGIE THEORIQUE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2846,6 +2891,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  formations de MFEH1.             | Connaissances personnelles,  
  pédagogie ...                                                                                            |                                                                                                              |  
 **Compétence n° 2 : PEDAGOGIE PRATIQUE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2861,6 +2907,7 @@ FFESSM/FFSA/FFH  Commission Technique Nationale  Manuel de Formation Technique
  / majeur), et les différentes  
  profondeurs. | Piscine et milieu naturel.       |  
 **Compétence n° 3 : CONNAISSANCES PERSONNELLES ET MEMOIRE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2955,6 +3002,7 @@ définies.
 **CONTENUS DE FORMATION MFEH2**  
   
 **Compétence n° 1 : PEDAGOGIE THEORIQUE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    
@@ -2981,6 +3029,7 @@ définies.
  à des EH2 par des MFEH1.                                       | Donner des informations et des  
  méthodes.     |  
 **Compétence n° 2 : PEDAGOGIE PRATIQUE**  
+
 |   
    
  **Connaissances, savoir-faire**  
@@ -2996,6 +3045,7 @@ définies.
  plongée (modéré / majeur), et les  
  différentes profondeurs. |                                  |  
 **Compétence n° 3 : CONNAISSANCES PERSONNELLES ET MEMOIRE**  
+
 | **Connaissances, savoir-faire**  
  **et savoir-être**  
    

@@ -66,7 +66,8 @@ suivantes :
 L’accoutumance progressive à la plongée profonde est un élément important de sécurité.  
 
 
-## Compétence 1 : UTILISER L’EQUIPEMENT DE PLONGEE
+### Compétence 1 : UTILISER L’EQUIPEMENT DE PLONGEE
+
 
 
 | **Savoirs/Savoir-faire/Savoir être**                                     | **Critères de réalisation**                                                                                                                                                               | **Techniques/Commentaires/Limites**                                                                                                                                      |
@@ -77,13 +78,15 @@ L’accoutumance progressive à la plongée profonde est un élément important 
 | Entretenir le matériel.<br>                                              | Rince l’équipement avec les précautions d’usage.<br> Sait décontaminer un détendeur.<br> Range l’équipement dans de bonnes conditions (séchage, pliage, chocs, etc...)                    |                                                                                                                                                                          |
 | Embarquer sur un navire support de plongée.<br>                          | Porte l’équipement sans risques pour lui-même et son entourage.<br> Range l’équipement aux emplacements prévus ou de façon à ne pas gêner.<br>                                            | *Technique(s) : capelage/décapelage* *à sec.*                                                                                                                            |
 
-## Compétence 2 : EVOLUER EN ENVIRONNEMENT AQUATIQUE ET SUBAQUATIQUE
+### Compétence 2 : EVOLUER EN ENVIRONNEMENT AQUATIQUE ET SUBAQUATIQUE
+
 | **Savoirs/Savoir-faire/Savoir être**                              | **Critères de réalisation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Techniques/Commentaires/Limites**                                                                                                                                                                                                                  |
 |:------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Se mettre à l’eau, remonter sur un navire support de plongée.<br> | Met en service et vérifie le fonctionnement de son matériel avant mise à l’eau.<br> Utilise une technique adaptée à la configuration du support et aux conditions de plongée.<br> Le cas échéant, met à l’eau l’ensemble bloc-gilet sans risque de perte et s’équipe en surface.<br> Le cas échéant, retire l’ensemble bloc-gilet en surface et le passe au support surface.<br> Prévient les incidents lors de cette phase : tenue de l’équipement, équilibrage des oreilles, gonflage préalable du gilet le cas échant, etc… | *Technique(s) : saut droit, bascule* *arrière, descente/remontée* *d’échelle.*    *Décapelage / recapelage en* *surface.*                                                                                                                            |
 | S’immerger.<br>                                                   | Utilise une technique d’immersion adaptée au contexte (équipement, consigne du GP, conditions de plongée, etc…).<br> Prévient les incidents lors de cette phase : tenue de l’équipement (selon technique), équilibrage des oreilles, etc…                                                                                                                                                                                                                                                                                      | *Technique(s) : canard, phoque ;* *Valsalva, BTV.*                                                                                                                                                                                                   |
 | Se déplacer en surface et en immersion.<br>                       | Utilise une technique de palmage adaptée au contexte (équipement, conditions de plongée ou de surface, etc…).<br>                                                                                                                                                                                                                                                                                                                                                                                                              | *Technique(s) : palmage ventral,* *dorsal.* Une distance d’environ 50 m (maximum) doit pouvoir être parcourue..<br>                                                                                                                                  |
 | Se ventiler en surface et en immersion.<br>                       | Utilise un tuba ou un détendeur selon le besoin (phases de la plongée, déplacements en surface et état de la mer).<br> Ne bloque pas l’expiration lors de la remontée.<br>                                                                                                                                                                                                                                                                                                                                                     | *Technique(s) : embout/tuba, vidage* *du tuba ; lâcher/reprise d’embout ;* *expiration à la remontée.* L’automatisme d’utilisation du détendeur même en surface plutôt que le tuba lorsque l’état de la mer le nécessite est un point important.<br> |
+
 
 
 
@@ -96,7 +99,8 @@ L’accoutumance progressive à la plongée profonde est un élément important 
 
 
 
-## Compétence 3 : EVOLUER EN PALANQUEE GUIDEE
+### Compétence 3 : EVOLUER EN PALANQUEE GUIDEE
+
 | **Savoirs/Savoir-faire/Savoir être**                         | **Critères de réalisation**                                                                                                                                                                                                        | **Techniques/Commentaires/Limites**                                                                                                                                                                       |
 |:-------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Comprendre et respecter les consignes du GP.<br>             | Applique sans erreur les conditions d’évolution fixées : mise à l’eau, descente, profondeur d’évolution, consignes de sécurité, gestion de la quantité d’air, etc...<br> Interroge le GP en cas de doute sur la compréhension.<br> | *Technique(s) : signes de* *communication.* Sensibilisation du plongeur PE40 sur son comportement responsable au sein de la palanquée.<br>                                                                |
@@ -108,12 +112,14 @@ L’accoutumance progressive à la plongée profonde est un élément important 
 
 
 
-## Compétence 6 : PARTICIPER A LA SECURITE DES EQUIPIERS
+### Compétence 6 : PARTICIPER A LA SECURITE DES EQUIPIERS
+
 | **Savoirs/Savoir-faire/Savoir être**                                    | **Critères de réalisation**                                                                                                                                                                                                                                                                                                                                                                                 | **Techniques/Commentaires/Limites**                                                                                                                                               |
 |:------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Connaître les risques de l’activité et leur prévention.<br>             | Cite pour lui les mesures de prévention des incidents courants ainsi que les principales procédures de sécurité à appliquer (prévention des principaux incidents, règles d’évolution, règle en cas de perte de la palanquée, etc…).<br>                                                                                                                                                                     | Acquis N1 à perfectionner, narcose.<br>                                                                                                                                           |
 | Demander et recevoir l’aide du GP et à défaut, celle d’un équipier.<br> | Demande une aide au GP ou à défaut (GP éloigné) à l’équipier le plus proche dès que nécessaire.<br> Assure sa flottabilité si cela est possible.<br> Applique les actions à réaliser (selon l’incident) qui relèvent de lui seul.<br> Adopte un comportement conforme à l’intervention réalisée par le GP.<br> Gère son gilet de stabilisation (flottabilité) lors de la remontée si cela est possible.<br> | *Technique(s) : signes de* *communication ; respiration sur* *détendeur de secours, respiration à* *deux sur un embout (simulation).* Acquis N1 à perfectionner, narcose.<br>     |
 | Appliquer les procédures de sécurité.<br>                               | Respecte les consignes du GP (profondeur, distance et position, etc…).<br> Remonte à vitesse normale vers la surface en cas de perte de la palanquée, effectue les paliers éventuels et effectue un tour d’horizon dans la zone des 3 m.<br> Assure sa flottabilité en surface, se signale au support surface et du support surface.<br>                                                                    | *Technique(s) : contrôle du gilet à la* *remontée ; tour d’horizon ;* *équilibrage au gilet en surface.* Le respect des règles est indispensable à la sécurité de la plongée.<br> |
+
 
 
 | **Savoirs/Savoir-faire/Savoir être**                                                             | **Critères de réalisation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Techniques/Commentaires/Limites**                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -122,7 +128,8 @@ L’accoutumance progressive à la plongée profonde est un élément important 
 
 
 
-## Compétence 7 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN
+### Compétence 7 : CONNAITRE ET RESPECTER L’ENVIRONNEMENT MARIN
+
 | **Savoirs/Savoir-faire/Savoir être**                                          | **Critères de réalisation**                                                                                                                                                                                                                                                                                                               | **Techniques/Commentaires/Limites**                                                                                                                                                                                                                                                                                                                                                                                              |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Evoluer en limitant son impact sur le milieu.<br>                             | Evite tout contact avec la faune et la flore : maîtrise sa flottabilité et son palmage, veille à bien fixer les flexibles et accessoires.<br> Evite d’expirer sous les surplombs.<br> Limite l’usage des éclairages artificiels.<br> Evite les nuisances sonores.<br> Ne pratique pas le nourrissage.<br> Ne harcèle pas les animaux.<br> | Il s’agit de ne pas endommager le milieu vivant par contact direct ou indirect (bulles) et de ne pas déranger la faune.<br>                                                                                                                                                                                                                                                                                                      |
@@ -132,7 +139,8 @@ L’accoutumance progressive à la plongée profonde est un élément important 
 
 
 
-## Compétence 8 : CONNAISSANCES EN APPUI DES COMPETENCES
+### Compétence 8 : CONNAISSANCES EN APPUI DES COMPETENCES
+
 | **Savoirs**                                                                                                                                 | **Critères de réalisation**                                                                                                                                                                                                                           | **Techniques/Commentaires/Limites**                                                                                                                                                                                                                                                                                                                                                                                                               |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Rôles, montage, vérifications, entretien courant, règles d’hygiène et réglementation éventuelle de l’équipement individuel du plongeur.<br> | S’équipe et monte son matériel sans erreur.<br> Règle correctement le matériel, teste son fonctionnement (détendeurs, gilet).<br> Identifie les dysfonctionnements et le matériel hors d’état et le signale.<br>                                      | L’approche doit rester pragmatique et orientée « utilisateur ».<br>                                                                                                                                                                                                                                                                                                                                                                               |
@@ -144,23 +152,23 @@ la mise en œuvre des compétences pour lesquelles ces connaissances sont mobili
 
 
 
-## MODIFICATIONS MFT depuis le 01/01/2016
+### MODIFICATIONS MFT depuis le 01/01/2016
 
-## Page 6
+**Page 6**  
 Le 15 novembre 2016  
 Dans la compétence 3 rajout des lignes 2, 3 et 4 du tableau.  
 
-## Page 10
+**Page 10**  
 Le 15 novembre 2016  
 Dans la compétence 8 (suite) rajouts dans la troisième ligne du tableau.  
 
 
 
-## MODIFICATIONS MEMENTO ASSOCIE depuis le 24/06/2015
-## Plongée guidé à 40 m
-## Certification de Plongeur Encadré 40 m (PE40)
+### MODIFICATIONS MEMENTO ASSOCIE depuis le 24/06/2015
+**Plongée guidé à 40 m**  
+**Certification de Plongeur Encadré 40 m (PE40)**  
 
-## Ensemble du document
+**Ensemble du document**  
 Le 1 janvier 2016  
 Renumérotation des compétences  
 

@@ -120,6 +120,7 @@ VETEMENT ETANCHE
 **Compétence n° 1 : CONNAITRE LES ELEMENTS THEORIQUES NECESSAIRES**  
 **A LA COMPREHENSION ET L’UTILISATION DU VETEMENT ETANCHE**  
   
+
 | **Connaissances et**  
  **savoir-faire**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Critères de réalisation**  
@@ -240,6 +241,7 @@ Page 4/9
   
 VETEMENT ETANCHE  
 **Compétence n° 2 : MAITRISER L’EQUIPEMENT**  
+
 | **Connaissances et**  
  **savoir-faire**  
                                                                       | **Critères de réalisation**  
@@ -324,6 +326,7 @@ Page 5/9
 VETEMENT ETANCHE  
 **Compétence n° 3 : SAVOIR S’IMMERGER, SE STABILISER**  
 **ET REMONTER AVEC LE VETEMENT**  
+
 | **Connaissances et**  
  **savoir-faire**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Critères de réalisation**  
@@ -443,6 +446,7 @@ VETEMENT ETANCHE
 **Compétence n° 3 : SAVOIR S’IMMERGER, SE STABILISER**  
 **ET REMONTER AVEC LE VETEMENT**  
 **(suite)**  
+
 | **Connaissances et**  
  **savoir-faire**  
                                                                                                                                 | **Critères de réalisation**  
@@ -471,6 +475,7 @@ VETEMENT ETANCHE
  d’une exploration. |  
   
 **Compétence n° 4 : MAITRISER LA REMONTEE TECHNIQUE**  
+
 | **Connaissances et**  
  **savoir-faire**  
                                                                                                                                                    | **Critères de réalisation**  
@@ -550,6 +555,7 @@ Page 7/9
 VETEMENT ETANCHE  
 **Compétence n° 5 : REAGIR AUX INCIDENTS DE LA PALANQUEE**  
   
+
 | **Connaissances et**  
  **savoir-faire**  
                                                                           | **Critères de réalisation**  

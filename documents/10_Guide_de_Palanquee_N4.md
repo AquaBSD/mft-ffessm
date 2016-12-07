@@ -609,6 +609,7 @@ GUIDE DE PALANQUEE
   
 **« Accueillir, conseiller et répondre aux demandes des plongeurs et du public »**  
 **Compétence 1 : ACCUEIL DES PLONGEURS**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                         | **Critères de réalisation**  
                                                                                                                                                                                                                                                 | **Commentaires**  
@@ -675,6 +676,7 @@ GUIDE DE PALANQUEE
   
 **Compétence 5 : ORGANISATION**  
 **« Participer à l’organisation de l’activité »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
            | **Critères de réalisation**  
                                                                                                                                                                                                                                                        | **Commentaires**  
@@ -723,6 +725,7 @@ GUIDE DE PALANQUEE
   
 **Compétence 6 : SECURISER L’ACTIVITE**  
 **« Sécuriser l’activité, prévenir les risques et intervenir si besoin »**  
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                           | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Commentaires**  
@@ -787,6 +790,7 @@ GUIDE DE PALANQUEE
 **Compétence 6 : SECURISER L’ACTIVITE**  
 **« Sécuriser l’activité, prévenir les risques et intervenir si besoin »**  
 (suite)  
+
 | **Savoirs/Savoir-faire/Savoir être**  
    | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Commentaires**  
@@ -888,6 +892,7 @@ GUIDE DE PALANQUEE
 **Compétence 7 : CONNAISSANCES SUPPORT**  
 **« Posséder les connaissances en appui des compétences requises »**  
   
+
 | **Savoirs**  
                                                                                                                                                                           | **Critères de réalisation**  
                                                                                                                                                                                                          | **Commentaires**  
@@ -946,6 +951,7 @@ GUIDE DE PALANQUEE
 L’aptitude A1 préalable à la présentation de l’examen final se réfère à cette compétence.  
 Elle doit être attestée par un MF1 ou BEES1 minimum, titulaire de la licence fédérale en cours de validité.  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                  | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Commentaires**  
@@ -1011,6 +1017,7 @@ GUIDE DE PALANQUEE
 **Compétence 8 : GUIDE D’EXPLORATION**  
 **(suite)**  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                                                                  | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Commentaires**  
@@ -1126,6 +1133,7 @@ GUIDE DE PALANQUEE
 **Compétence 8 : GUIDE D’EXPLORATION**  
 **(suite)**  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                               | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                                        | **Commentaires**  
@@ -1191,6 +1199,7 @@ GUIDE DE PALANQUEE
 **Compétence 15 : ENVIRONNEMENT**  
 **« Connaître et respecter l’environnement subaquatique »**  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Critères de réalisation**  
                                                                                                                                                                                                                                                                                                                         | **Commentaires**  
@@ -1296,6 +1305,7 @@ GUIDE DE PALANQUEE
 **« Connaître et respecter l’environnement subaquatique »**  
 (suite)  
   
+
 | **Savoirs/Savoir-faire/Savoir être**  
    | **Critères de réalisation**  
                                                                                                                                                                                                                  | **Commentaires**  
@@ -1317,6 +1327,7 @@ GUIDE DE PALANQUEE
 **CONTENU ET DEROULEMENT DES EPREUVES D'EXAMEN**  
   
 **EPREUVE 1 – CONDITION PHYSIQUE : mannequin**  
+
 | **Epreuve**  
    | **Commentaires et**  
  **limites**  
@@ -1374,6 +1385,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 2 – CONDITION PHYSIQUE : nages**  
   
+
 | **Epreuve**  
    | **Commentaires et**  
  **limites**  
@@ -1392,6 +1404,7 @@ GUIDE DE PALANQUEE
  « EPREUVES DE  
  L’EXAMEN ». |**EPREUVE 3 – CONDITION PHYSIQUE : plongée libre**  
   
+
 | **Epreuve**  
    | **Commentaires et**  
  **limites**  
@@ -1444,6 +1457,7 @@ GUIDE DE PALANQUEE
 **EPREUVE 4 – CONDUITE DE PALANQUEE : avant l’immersion**  
   
   
+
 | **Savoirs/Savoir-**  
  **faire/Savoir être**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Commentaires et**  
@@ -1582,6 +1596,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 4 – CONDUITE DE PALANQUEE : pendant l’immersion**  
   
+
 | **Savoirs/Savoir-**  
  **faire/Savoir être**  
                                                                                                                                                                                                                                                                                                            | **Commentaires et**  
@@ -1725,6 +1740,7 @@ GUIDE DE PALANQUEE
 **EPREUVE 4 – CONDUITE DE PALANQUEE : pendant l’immersion**  
 **(suite)**  
   
+
 | **Savoirs/Savoir-**  
  **faire/Savoir être**  
                                                                                                                                                                                                                                       | **Commentaires et**  
@@ -1852,6 +1868,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 4 – CONDUITE DE PALANQUEE : après l’immersion**  
   
+
 | **Savoirs/Savoir-**  
  **faire/Savoir être**  
                                                                                                                                                                                                              | **Commentaires et**  
@@ -1981,6 +1998,7 @@ GUIDE DE PALANQUEE
 **EPREUVE 5 – INTERVENTION SUR UN PLONGEUR EN DIFFICULTE A 40 m**  
 L’aptitude A2 préalable à la présentation de l’examen final se réfère à cette épreuve.  
 Elle doit être attestée par un MF1 ou BEES1 minimum, titulaire de la licence fédérale en cours de validité.  
+
 | **Savoirs/Savoir-**  
  **faire/Savoir être**  
                                                                                      | **Commentaires**  
@@ -2044,6 +2062,7 @@ Page 26/38
 GUIDE DE PALANQUEE  
   
 **EPREUVE 6 – MATELOTAGE**  
+
 | **Connaissances**  
                                                                                                | **Commentaires et limites**  
                                                                                                                                                                                                                                            | **Conditions de réalisation**  
@@ -2063,6 +2082,7 @@ GUIDE DE PALANQUEE
  (Démonstration de l’exécution des  
  nœuds marins usuels). |  
 **EPREUVE 7 – DESCENTE, STABILISATION ET VIDAGE DE MASQUE A 40 m**  
+
 | **Epreuve**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Commentaires et**  
  **limites**  
@@ -2158,6 +2178,7 @@ GUIDE DE PALANQUEE
 L’aptitude A3 préalable à la présentation de l’examen final se réfère à cette épreuve.  
 Elle doit être attestée par un MF1 ou BEES1 minimum, titulaire de la licence fédérale en cours de validité.  
 **EPREUVE 8 – REMONTEE SANS EMBOUT**  
+
 | **Savoirs/Savoir-**  
  **faire/Savoir être**  
                                                                                                                                                  | **Commentaires et**  
@@ -2238,6 +2259,7 @@ Page 28/38
 GUIDE DE PALANQUEE  
   
 **EPREUVE 9 – 500M nage avec scaphandre**  
+
 | **Epreuve**  
                                                                               | **Commentaires et**  
  **limites**  
@@ -2264,6 +2286,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 10 – CONNAISSANCES SUPPORT :**  
 **DECOMPRESSION**  
+
 | **Connaissances**  
                                                                                                                                                                                                                                                                              | **Commentaires et limites**  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Conditions de réalisation**  
@@ -2382,6 +2405,7 @@ GUIDE DE PALANQUEE
 **EPREUVE 10 – CONNAISSANCES SUPPORT :**  
 **DECOMPRESSION**  
 **(suite)**  
+
 | **Connaissances**  
            | **Commentaires et limites**  
                                                                              | **Conditions de réalisation**  
@@ -2419,6 +2443,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 11 – CONNAISSANCES SUPPORT :**  
 **ANATOMIE, PHYSIOLOGIE ET PHYSIOPATHOLOGIE DU PLONGEUR**  
+
 | **Connaissances**  
                                                                                                                                                                                                             | **Commentaires et limites**  
                                                                                                                                                                                                                                                               | **Conditions de réalisation**  
@@ -2509,6 +2534,7 @@ GUIDE DE PALANQUEE
 **EPREUVE 11 – CONNAISSANCES SUPPORT :**  
 **ANATOMIE, PHYSIOLOGIE ET PHYSIOPATHOLOGIE DU PLONGEUR**  
 **(suite)**  
+
 | **Connaissances**  
                                                   | **Commentaires et limites**  
                                                                                                                                                                                                                                                                                                                                                                                                               | **Conditions de réalisation**  
@@ -2573,6 +2599,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 12 – CONNAISSANCES SUPPORT :**  
 **ASPECTS THEORIQUES DE L’ACTIVITE**  
+
 | **Connaissances**  
                                                                                                                                                 | **Commentaires et limites**  
                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Conditions de réalisation**  
@@ -2643,6 +2670,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 13 – CONNAISSANCES SUPPORT :**  
 **MATERIEL DE PLONGEE**  
+
 | **Connaissances**  
                                                                                                       | **Commentaires et limites**  
                                                                                                                                                                                                                                                   | **Conditions de réalisation**  
@@ -2737,6 +2765,7 @@ GUIDE DE PALANQUEE
   
 **EPREUVE 14 – CONNAISSANCES SUPPORT :**  
 **CADRE REGLEMENTAIRE DE L’ACTIVITE**  
+
 | **Connaissances**  
                                                                                                       | **Commentaires et limites**  
                                    | **Conditions de réalisation**  
@@ -2796,6 +2825,7 @@ Délivrées à M., Mme _________________________________________________________
 **APTITUDE A1 « Conduite de Palanquée »**  
 Se référer au chapitre « Epreuves de l’examen » du MFT et aux compétences C1 « Accueil des plongeurs », C5  
 « Organisation », C8 « Guide d’exploration » et C15 « Environnement » du référentiel de compétences.  
+
 | Date  
    | Cachet du Moniteur ou Qualification  
    | Signature du Moniteur  
@@ -2804,6 +2834,7 @@ Se référer au chapitre « Epreuves de l’examen » du MFT et aux compétences
 |           |                                          |                            |  
 **APTITUDE A2 « Intervention sur un plongeur en difficulté à 40 m »**  
 Se référer à l’épreuve 5 du MFT et à la compétence C6 « Sécuriser l’activité » du référentiel de compétences.  
+
 | Date  
    | Cachet du Moniteur ou Qualification  
    | Signature du Moniteur  
@@ -2812,6 +2843,7 @@ Se référer à l’épreuve 5 du MFT et à la compétence C6 « Sécuriser l’
 |           |                                          |                            |  
 **APTITUDE A3 « Remontée Sans Embout (RSE) »**  
 Se référer à l’épreuve 8 du MFT et à la compétence C6 « Sécuriser l’activité » du référentiel de compétences.  
+
 | Date  
    | Cachet du Moniteur ou Qualification  
    | Signature du Moniteur  
