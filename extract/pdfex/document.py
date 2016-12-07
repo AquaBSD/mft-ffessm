@@ -1,16 +1,11 @@
-import os
-
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import PDFPageAggregator
 
-from .element import Element
-
 
 class Document(object):
-
-    def __init__(self, filename):
-        self.file = open(filename, 'rb')
+    def __init__(self, f):
+        self.file = f
 
         rsrcmgr = PDFResourceManager()
         self.device = PDFPageAggregator(rsrcmgr)
@@ -25,14 +20,3 @@ class Document(object):
             pages[layout.pageid] = layout
 
         return pages
-
-    @staticmethod
-    def to_markdown(path, template):
-        doc = Document(path)
-        out = os.path.splitext(path)[0] + '.md'
-
-        with open(out, 'w') as output:
-            for page_num, page in doc.extract().items():
-                page_element = Element()
-                for element in page_element.parse(page, page_num, template):
-                    output.write(template.to_markdown(element).encode('utf-8'))

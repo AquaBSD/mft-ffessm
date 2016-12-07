@@ -25,7 +25,7 @@ class Comic(Template):
 
     def handle_indent(self, text, content):
         if 113.0 < text.x0:
-            return (1, content[0].isupper())
+            return (1, len(content) and content[0].isupper())
 
         return (0, False)
 
