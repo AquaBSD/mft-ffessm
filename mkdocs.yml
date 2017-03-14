@@ -17,4 +17,4 @@ pages:
 - 'Passerelles FFESSM / PADI et FFESSM / SSI': 19_Passerelles_PADI_SSI.md
 theme: readthedocs
 extra_css:
-- css/exta.css
+- css/extra.css
