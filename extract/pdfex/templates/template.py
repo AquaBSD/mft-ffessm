@@ -88,10 +88,10 @@ class Template(object):
     def cleanup(self, content):
         return content.strip()
 
-    def handle_heading(self, text):
+    def handle_heading(self, text, content):
         return 0
 
-    def handle_indent(self, text):
+    def handle_indent(self, text, content):
         return (0, False)
 
     def handle_ignored(self, content, in_table):
@@ -119,7 +119,7 @@ class Template(object):
         if ignored:
             return u''
 
-        heading = self.handle_heading(text)
+        heading = self.handle_heading(text, initial_content)
 
         if heading:
             content = self.cleanup(initial_content)
@@ -183,7 +183,7 @@ class Template(object):
 
                 intermediate[row_idx].append(cell)
 
-        return tabulate.tabulate(intermediate, tablefmt="pipe", headers="firstrow")
+        return '\n' + tabulate.tabulate(intermediate, tablefmt="pipe", headers="firstrow")
 
     def _calc_coordinates(self, axes, attr, reverse):
         coor_set = set()

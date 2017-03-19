@@ -22,8 +22,8 @@ class Element(object):
         )
 
     def parse(self, page, page_num, template):
-        if template.la_overrides and str(page_num) in template.la_overrides:
-            laparams = LAParams(**template.la_overrides[str(page_num)])
+        if template.la_overrides and page_num in template.la_overrides:
+            laparams = LAParams(**template.la_overrides[page_num])
         else:
             laparams = LAParams()
 

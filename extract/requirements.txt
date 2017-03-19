@@ -1,2 +1,3 @@
 pdfminer==20140328
 tabulate==0.7.7
+PyYAML==3.12
