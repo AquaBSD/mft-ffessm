@@ -25,7 +25,7 @@ Elle est validée par un moniteur Nitrox confirmé FFESSM ayant assuré la forma
 Etre titulaire de la licence FFESSM. en cours de validité.
 
 - Etre âgé d'au moins 14 ans à la date de délivrance.
-- Etre titulaire du niveau 1 de la FFESSM ou d'un brevet admis en équivalence ou du PESH12.
+- Etre titulaire du Niveau PE12 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12.
 - Présenter le carnet de plongée.
 - Avoir effectué un minimum de 10 plongées dans la zone des 20 mètres attestées sur le carnet de plongée ou par mention sur le passeport ou par fiche justificative dûment remplie.
 - Présenter un certificat médical de non-contre indication à la plongée subaquatique de moins d'un an délivré par un médecin généraliste tel que défini dans l'annexe 1 du Règlement Médical.
@@ -198,8 +198,14 @@ Les scaphandriers professionnels classe 2 ou 3, Mention A, titulaires du brevet 
 
 ## MODIFICATIONS
 
-### MODIFICATIONS DEPUIS LE 03/07/2014
+### MODIFICATIONS DEPUIS LE 16/03/2016
 
 **Page 1**<br>
+
+Le 01 janvier 2017<br>
+Remplacement du Niveau 1 par PE12 dans les conditions de candidature.
+« ─ Etre titulaire du niveau PE12 de la FFESSM ou d’un brevet admis en équivalence ou du PESH12 ».
+
+
 Le 3 juillet 2014<br>
 Dans les « CONDITIONS DE CANDIDATURE » modification de la qualification du médecin signataire du certificat médical.
