@@ -61,8 +61,8 @@ ors des épreuves d'examen des brevets fédéraux.
 Le Certificat Médical d’absence de contre indication (« CACI ») suit les règles suivantes :
 :
 
-**Plongée( Air, Nitrox, Trimix élémentaire), toute activité scaphandre APNÉE ou PÊCHE au-delà de 6 mètres**
-* CACI de moins de 1 an à la prise de licence.
+**Plongée( Air, Nitrox, Trimix élémentaire), toute activité scaphandre APNÉE ou PÊCHE au-delà de 6 mètres**<br />
+* CACI de moins de 1 an à la prise de licence.<br />
 * CACI de moins de 1 an au jour de la pratique, de la compétition, de l'encadrement ou du passage d'un brevet.
 
 **Pratiquant de moins de 14 ans** | **Pratiquant de plus de 14 ans** 
@@ -84,10 +84,11 @@ Certificat médical rédigé au regard du modèle téléchargeable : <http://med
 * Sportif sélectionné en Équipe de France ou inscrit à titre individuel à une compétition internationale officielle CMAS : Médecin du Sport (list d'examens imposés)
 
 **RAPPEL**
-*SANS LICENSE ni CACI*
+
+*SANS LICENSE ni CACI* <br />
 Baptême, Pass rando, PE12, Pack découverte, 1iere étoile de mer, Pass apnéiste, Pass plongeur libre.
 
-*LICENSE SANS CACI*
+*LICENSE SANS CACI* <br />
 La délivrance d'une license n'ouvrant pas droit à la pratique sportive (Ex.: dirigean associatif, accompagnateur...) n'est pas subordonnée à la présentation d'un certificat médical.
 
 « Le Président d’un club, d’un Organisme Déconcentré, d’un jury d’examen, l’exploitant d’une SCA ou un directeur  de  plongée  qui,  de  manière  évidente,  soit  constate  chez  un  plongeur  ou  un  encadrant  un comportement particulier susceptible à ses yeux d’être générateur d’une conduite à risque pour le plongeur ou sa palanquée, soit considère que ce licencié puisse ne pas être en état physique ou psychique de participer à une activité prévue par le règlement fédéral ou le code du sport, peut s’opposer à cette pratique. Dans ce dernier cas, il doit inviter le licencié à bénéficier d’un examen médical complémentaire réalisé selon les règles de  bonnes  pratiques  médicales  prévues  par  le  règlement  médical  fédéral  (consultable  sur  le  site  de  la 
