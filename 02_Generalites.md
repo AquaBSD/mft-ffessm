@@ -62,8 +62,8 @@ Le Certificat Médical d’absence de contre indication (« CACI ») suit les r�
 :
 
 **Plongée( Air, Nitrox, Trimix élémentaire), toute activité scaphandre APNÉE ou PÊCHE au-delà de 6 mètres**<br />
-* CACI de moins de 1 an à la prise de licence.<br />
-* CACI de moins de 1 an au jour de la pratique, de la compétition, de l'encadrement ou du passage d'un brevet.
+- CACI de moins de 1 an à la prise de licence.<br />
+- CACI de moins de 1 an au jour de la pratique, de la compétition, de l'encadrement ou du passage d'un brevet.
 
 **Pratiquant de moins de 14 ans** | **Pratiquant de plus de 14 ans** 
 ---|---
@@ -79,7 +79,7 @@ Certificat médical rédigé au regard du modèle téléchargeable : <http://med
 * Handisub : Baptême (sans license) < 2 mètres : Obligation d'un CACI par Tout médecin.
     Tout autre pratique : Médecin Fédéral, Spécialisé ou Sport.
 
-* Surclassement sportif : Tout médecin (modèles de certificat médical définits par discipline,, par catégorie d'âge et type)
+* Surclassement sportif : Tout médecin (modèles de certificat médical définits par discipline, par catégorie d'âge et type)
 
 * Sportif sélectionné en Équipe de France ou inscrit à titre individuel à une compétition internationale officielle CMAS : Médecin du Sport (list d'examens imposés)
 
